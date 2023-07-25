@@ -37,3 +37,6 @@
 * Version Control (Git)<br>
 * Documentation and Readme Writing<br>
 * Problem Solving and Troubleshooting<br>
+
+# Snapshots
+<img src="https://github.com/EnigmaOfData/Movie_Recommender_System/blob/main/MovieRecommender.PNG" alt="Snapshots" width="800" height="400">
